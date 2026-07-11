@@ -130,7 +130,7 @@ The dashboard enables users to:
 
 ## 💎 High-Value Customer Risk
 
-![High-Value Customer Risk](images/high-value-customer-risk.png)
+![High-Value Customer Risk](https://raw.githubusercontent.com/dhruvkapdi/European_Bank/main/images/High-Value%20Customer%20Risk(Page%20-4).png)
 
 ### Visualizations
 
