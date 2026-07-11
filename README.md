@@ -91,7 +91,7 @@ The dashboard was developed to provide an interactive analytical platform that:
 
 ### 📄 Page 1 — Executive Overview
 
-https://github.com/dhruvkapdi/European_Bank/blob/main/Executive%20Overview(Page%20-%201).png
+(https://github.com/dhruvkapdi/European_Bank/blob/main/Executive%20Overview(Page%20-%201).png)
 
 Provides an executive summary of customer churn performance through high-level KPIs and business metrics.
 
@@ -115,7 +115,7 @@ Provides an executive summary of customer churn performance through high-level K
 
 ### 🌍 Page 2 — Geographic & Demographic Analysis
 
-https://github.com/dhruvkapdi/European_Bank/blob/main/Geographic%20%26%20Demographic%20Analysis%20(Page%20-%202).png
+(https://github.com/dhruvkapdi/European_Bank/blob/main/Geographic%20%26%20Demographic%20Analysis%20(Page%20-%202).png)
 
 Focuses on understanding how customer churn differs across regions and demographic groups.
 
@@ -132,7 +132,7 @@ Focuses on understanding how customer churn differs across regions and demograph
 
 ### 👥 Page 3 — Customer Engagement & Segmentation
 
-https://github.com/dhruvkapdi/European_Bank/blob/main/Customer%20Engagement%20%26%20Segmentation(Page%20-%203).png
+(https://github.com/dhruvkapdi/European_Bank/blob/main/Customer%20Engagement%20%26%20Segmentation(Page%20-%203).png)
 
 Explores customer behavior and engagement characteristics to identify patterns associated with churn.
 
@@ -149,7 +149,7 @@ Explores customer behavior and engagement characteristics to identify patterns a
 
 ### 💎 Page 4 — High-Value Customer Risk
 
-https://github.com/dhruvkapdi/European_Bank/blob/main/High-Value%20Customer%20Risk(Page%20-4).png
+(https://github.com/dhruvkapdi/European_Bank/blob/main/High-Value%20Customer%20Risk(Page%20-4).png)
 
 Analyzes premium customers whose churn could significantly impact business revenue.
 
