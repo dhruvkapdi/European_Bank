@@ -115,7 +115,7 @@ The dashboard enables users to:
 
 ## 👥 Customer Engagement & Segmentation
 
-![Customer Engagement & Segmentation](images/customer-engagement-segmentation.png)
+![Customer Engagement & Segmentation](https://raw.githubusercontent.com/dhruvkapdi/European_Bank/main/images/Customer%20Engagement%20%26%20Segmentation(Page%20-%203).png)
 
 ### Visualizations
 
