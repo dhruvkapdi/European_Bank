@@ -100,7 +100,7 @@ The dashboard enables users to:
 
 ## 🌍 Geographic & Demographic Analysis
 
-![Geographic & Demographic Analysis](images/geographic-demographic-analysis.png)
+![Executive Overview](https://raw.githubusercontent.com/dhruvkapdi/European_Bank/main/images/Executive%20Overview(Page%20-%201).png)
 
 ### Visualizations
 
