@@ -3,6 +3,9 @@
 An interactive Power BI dashboard designed to analyze customer churn patterns across European banks by exploring customer demographics, geography, engagement, financial behavior, and high-value customer risk. The dashboard transforms raw banking data into actionable insights that support strategic customer retention and business decision-making.
 
 ---
+# 📌 Project Link
+
+https://app.powerbi.com/view?r=eyJrIjoiMjVkZjkyYmMtNDRjYS00MjA2LTgyMmQtMTg3NmY5Y2EyMjdkIiwidCI6IjQ5NzQzNGQ1LWUzODEtNDhhZS1iOWFkLTk3NDUzNWY2ZjM3MSJ9
 
 # 📌 Project Overview
 
