@@ -1,43 +1,35 @@
 # 🏦 Customer Segmentation & Churn Pattern Analytics in European Banking
 
-## Recommended Structure and Order
-
----
-
-## 1. Project Title / Headline
-
-### 🏦 Customer Segmentation & Churn Pattern Analytics in European Banking
-
 An interactive Power BI dashboard designed to analyze customer churn patterns across European banks by exploring customer demographics, geography, engagement, financial behavior, and high-value customer risk. The dashboard transforms raw banking data into actionable insights that support strategic customer retention and business decision-making.
 
 ---
 
-## 2. Short Description / Purpose
+# 📌 Project Overview
 
-The **Customer Segmentation & Churn Pattern Analytics Dashboard** is a comprehensive Business Intelligence solution developed in **Power BI** to analyze customer churn behavior within a European banking environment. The dashboard enables users to identify high-risk customer segments, compare churn across countries and demographics, evaluate customer engagement, and assess the financial impact of customer attrition through interactive visualizations and dynamic KPIs.
-
----
-
-## 3. Tech Stack
-
-The dashboard was built using the following tools and technologies:<br>
-
-• 📊 **Power BI Desktop** – Main Business Intelligence platform used for dashboard development and visualization.<br>
-• 📂 **Power Query** – Data extraction, cleaning, transformation, and preprocessing.<br>
-• 🧠 **DAX (Data Analysis Expressions)** – Created dynamic KPIs, calculated measures, segmentation logic, and business metrics.<br>
-• 🔗 **Data Modeling** – Designed relationships and optimized the data model for efficient analysis and cross-filtering.<br>
-• 🎨 **Custom Dashboard Design** – Interactive navigation, custom SVG icons, modern UI theme, bookmarks, and drill-through functionality.<br>
-• 📁 **File Format** – `.pbix` for development and `.png` for dashboard previews.
+The **Customer Segmentation & Churn Pattern Analytics Dashboard** is a comprehensive Business Intelligence solution developed using **Power BI**. It helps identify high-risk customer segments, compare churn across countries and demographics, evaluate customer engagement, and assess the financial impact of customer attrition through interactive visualizations and dynamic KPIs.
 
 ---
 
-## 4. Data Source
+# 🚀 Tech Stack
 
-**Source:** European Banking Customer Churn Dataset (Synthetic Banking Dataset)
+The dashboard was built using the following tools and technologies:
 
-The dataset contains customer-level information collected from a European banking institution, including demographic, financial, and behavioral attributes.
+- 📊 **Power BI Desktop** – Dashboard development and data visualization.
+- 📂 **Power Query** – Data cleaning, transformation, and preprocessing.
+- 🧠 **DAX (Data Analysis Expressions)** – Dynamic KPIs, calculated measures, and business metrics.
+- 🔗 **Data Modeling** – Relationship creation and optimized data model.
+- 🎨 **Custom Dashboard Design** – Interactive navigation, SVG icons, bookmarks, and drill-through functionality.
+- 📁 **File Format** – `.pbix`, `.csv`, `.png`
 
-### Dataset includes:
+---
+
+# 📂 Data Source
+
+**Dataset:** European Banking Customer Churn Dataset
+
+The dataset contains customer-level banking information including demographic, financial, and behavioral attributes.
+
+### Dataset Features
 
 - Customer ID
 - Credit Score
@@ -45,57 +37,51 @@ The dataset contains customer-level information collected from a European bankin
 - Gender
 - Age
 - Tenure
-- Account Balance
+- Balance
 - Number of Products
 - Credit Card Ownership
 - Active Member Status
 - Estimated Salary
 - Customer Churn Status (Exited)
 
-The dataset enables comprehensive customer segmentation and churn analysis across multiple business dimensions.
-
 ---
 
-# 5. Features / Highlights
+# 🎯 Business Problem
 
-## • Business Problem
+Customer churn directly impacts profitability and customer lifetime value. Banks often struggle to identify high-risk customer segments before they leave.
 
-Customer churn is one of the biggest challenges faced by modern banks. Losing existing customers directly impacts long-term profitability, customer lifetime value, and acquisition costs.
-
-Business stakeholders often struggle to answer questions such as:
+Key business questions addressed include:
 
 - Which customer segments are most likely to churn?
-- Which country has the highest churn risk?
-- Are inactive customers more likely to leave?
-- Which high-value customers require immediate retention efforts?
-- How do age, tenure, and financial characteristics influence churn?
-
-Without structured analytics, retention strategies become reactive instead of proactive.
+- Which country has the highest churn rate?
+- Does customer engagement reduce churn?
+- Which high-value customers require immediate retention?
+- How do demographics influence customer behavior?
 
 ---
 
-## • Goal of the Dashboard
+# 🎯 Goal of the Dashboard
 
-The dashboard was developed to provide an interactive analytical platform that:
+The dashboard enables users to:
 
-- Measures overall customer churn performance.
-- Identifies high-risk customer segments.
-- Compares churn across different European countries.
-- Evaluates customer engagement and financial behavior.
-- Detects high-value customers at risk.
-- Supports business leaders in making data-driven customer retention decisions.
+- Measure overall customer churn.
+- Analyze churn across customer segments.
+- Compare churn across European countries.
+- Understand demographic differences.
+- Identify high-value customers at risk.
+- Support customer retention strategies using data-driven insights.
 
 ---
 
-## • Walkthrough of Key Visuals
+# 📊 Dashboard Pages
 
-### 📄 Page 1 — Executive Overview
+---
 
-(https://github.com/dhruvkapdi/European_Bank/blob/main/Executive%20Overview(Page%20-%201).png)
+## 📄 Executive Overview
 
-Provides an executive summary of customer churn performance through high-level KPIs and business metrics.
+![Executive Overview](images/executive-overview.png)
 
-**Key KPIs**
+### KPIs
 
 - Total Customers
 - Churned Customers
@@ -104,146 +90,181 @@ Provides an executive summary of customer churn performance through high-level K
 - Balance at Risk
 - High-Value Churn Ratio
 
-**Visualizations**
+### Visualizations
 
 - Customer Churn Distribution
 - Churn Rate by Geography
-- Churn by Activity Status
+- Customer Activity Analysis
 - Customer Summary Matrix
 
 ---
 
-### 🌍 Page 2 — Geographic & Demographic Analysis
+## 🌍 Geographic & Demographic Analysis
 
-(https://github.com/dhruvkapdi/European_Bank/blob/main/Geographic%20%26%20Demographic%20Analysis%20(Page%20-%202).png)
+![Geographic & Demographic Analysis](images/geographic-demographic-analysis.png)
 
-Focuses on understanding how customer churn differs across regions and demographic groups.
+### Visualizations
 
-**Visualizations**
-
-- Churn Rate by Geography
-- Gender-based Churn Analysis
-- Geographic Risk Comparison
+- Geography-wise Churn Rate
+- Gender Churn Comparison
+- Geographic Risk Analysis
 - Age Group Distribution
-- Country-wise Customer Matrix
-- Demographic Performance Indicators
+- Demographic Matrix
+- Regional Customer Analysis
 
 ---
 
-### 👥 Page 3 — Customer Engagement & Segmentation
+## 👥 Customer Engagement & Segmentation
 
-(https://github.com/dhruvkapdi/European_Bank/blob/main/Customer%20Engagement%20%26%20Segmentation(Page%20-%203).png)
+![Customer Engagement & Segmentation](images/customer-engagement-segmentation.png)
 
-Explores customer behavior and engagement characteristics to identify patterns associated with churn.
+### Visualizations
 
-**Visualizations**
-
-- Churn by Tenure Group
-- Product Group Analysis
-- Credit Score Segmentation
-- Balance Segment Analysis
-- Credit Card Ownership
-- Customer Engagement Matrix
+- Customer Segmentation
+- Tenure Analysis
+- Product Analysis
+- Credit Score Analysis
+- Balance Segmentation
+- Customer Engagement Metrics
 
 ---
 
-### 💎 Page 4 — High-Value Customer Risk
+## 💎 High-Value Customer Risk
 
-(https://github.com/dhruvkapdi/European_Bank/blob/main/High-Value%20Customer%20Risk(Page%20-4).png)
+![High-Value Customer Risk](images/high-value-customer-risk.png)
 
-Analyzes premium customers whose churn could significantly impact business revenue.
+### Visualizations
 
-**Visualizations**
-
-- High-Value Customers by Geography
-- High-Value Customers by Age Group
+- High-Value Customer Distribution
 - Balance at Risk
+- High-Value Customer Analysis
+- Geographic Financial Exposure
 - Premium Customer Details
-- Financial Risk Assessment
 
 ---
 
-## • Business Impact & Insights
+# 📈 Key Performance Indicators
 
-### 📈 Customer Retention
-
-The dashboard helps identify customer segments with the highest probability of churn, allowing banks to prioritize retention campaigns.
-
-### 🌍 Geographic Risk Analysis
-
-Country-level comparisons reveal regional differences in churn behavior, enabling localized customer engagement strategies.
-
-### 💰 Revenue Protection
-
-By identifying high-value customers at risk, the dashboard supports proactive retention efforts that protect customer lifetime value and minimize financial loss.
-
-### 👥 Customer Segmentation
-
-Behavioral and demographic segmentation enables personalized marketing campaigns based on customer profiles.
-
-### 📊 Executive Decision Support
-
-Interactive KPIs and drill-through capabilities allow executives to quickly monitor business performance and investigate churn drivers.
-
-### 🚀 Strategic Planning
-
-Business leaders can leverage the insights to optimize customer experience, improve engagement, and design targeted retention strategies.
+- Total Customers
+- Churned Customers
+- Overall Churn Rate
+- Retention Rate
+- High-Value Customers
+- High-Value Churn Ratio
+- Balance at Risk
+- Geographic Risk Index
+- Average Churned Balance
+- Average Churned Salary
 
 ---
 
-# 6. Dashboard Preview
+# 💡 Business Insights
 
-## Executive Overview
+### 📌 Customer Retention
 
-![Executive Overview](images/Executive_Overview.png)
+Approximately **20%** of customers have churned, indicating customer retention remains a significant business challenge.
 
----
+### 🌍 Geographic Risk
 
-## Geographic & Demographic Analysis
+Germany records the highest churn rate, making it the highest-risk region for customer loss.
 
-![Geographic Analysis](images/Geographic_Demographic_Analysis.png)
+### 👥 Customer Engagement
 
----
+Inactive customers are considerably more likely to churn than active customers, highlighting customer engagement as a critical retention factor.
 
-## Customer Engagement & Segmentation
+### 💰 Financial Risk
 
-![Customer Engagement](images/Customer_Engagement_Segmentation.png)
+High-value customers contribute a significant share of financial exposure, emphasizing the importance of proactive retention strategies.
 
----
+### 📊 Customer Segmentation
 
-## High-Value Customer Risk
-
-![High Value Risk](images/High_Value_Customer_Risk.png)
+Customer age, engagement level, product ownership, and financial profile all influence churn behavior, enabling targeted marketing and personalized retention campaigns.
 
 ---
 
-# ⭐ Key Skills Demonstrated
+# 🎯 Business Impact
 
-- Power BI Dashboard Development
-- Data Cleaning & Transformation
+- Improved customer retention planning
+- High-value customer identification
+- Geographic risk assessment
+- Better customer segmentation
+- Executive-level decision support
+- Data-driven marketing strategies
+
+---
+
+# 🛠 Skills Demonstrated
+
+- Power BI
+- Power Query
+- DAX
 - Data Modeling
-- Advanced DAX
 - Customer Segmentation
 - Churn Analytics
 - Business Intelligence
-- Interactive Dashboard Design
-- Drill-through Navigation
+- Dashboard Design
 - KPI Development
+- Interactive Reporting
 - Data Storytelling
-- Executive Reporting
 
 ---
 
-## 👨‍💻 Author
+# 📸 Dashboard Preview
+
+| Executive Overview | Geographic & Demographic |
+|:------------------:|:------------------------:|
+| ![](images/executive-overview.png) | ![](images/geographic-demographic-analysis.png) |
+
+| Customer Engagement | High-Value Customer Risk |
+|:-------------------:|:------------------------:|
+| ![](images/customer-engagement-segmentation.png) | ![](images/high-value-customer-risk.png) |
+
+---
+
+# 📁 Repository Structure
+
+```text
+European_Bank/
+│
+├── Dashboard/
+│   └── European Banking Dashboard.pbix
+│
+├── Dataset/
+│   └── European_Bank.csv
+│
+├── images/
+│   ├── executive-overview.png
+│   ├── geographic-demographic-analysis.png
+│   ├── customer-engagement-segmentation.png
+│   └── high-value-customer-risk.png
+│
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 🚀 Future Improvements
+
+- Machine Learning-based Churn Prediction
+- Customer Lifetime Value (CLV) Analysis
+- Predictive Risk Scoring
+- Azure SQL Integration
+- Power BI Service Deployment
+- Real-time Dashboard Refresh
+
+---
+
+# 👨‍💻 Author
 
 **Dhruv Kapdi**
 
-📧 Email: dhruvkapdi007@gmail.com
+📧 Email: **dhruvkapdi007@gmail.com**
 
-🔗 LinkedIn: https://www.linkedin.com/in/dhruv-kapdi
+🔗 LinkedIn: **https://www.linkedin.com/in/dhruv-kapdi**
 
-💻 GitHub: https://github.com/dhruvkapdi
+💻 GitHub: **https://github.com/dhruvkapdi**
 
 ---
 
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
+## ⭐ If you found this project helpful, please consider giving it a Star!
