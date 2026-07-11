@@ -79,8 +79,7 @@ The dashboard enables users to:
 
 ## 📄 Executive Overview
 
-![Executive Overview]([images/executive-overview.png](https://github.com/dhruvkapdi/European_Bank/blob/main/images/Executive%20Overview(Page%20-%201).png))
-
+![Executive Overview](./images/Executive%20Overview(Page%20-%201).png)
 ### KPIs
 
 - Total Customers
